@@ -1,3 +1,4 @@
 # Masterflow
 Username: va
-Pim: 1111
+Pin: 1111
+folder pod imenom final, u njemu file pod imenom index(pregled stranice)
